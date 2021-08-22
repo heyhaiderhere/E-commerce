@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+main {
+  min-height: 80vh;
+}
+h1 {
+  font-size: 1.2rem;
+  padding: 1rem 0;
+}
+h2 {
+  font-size: 1.2rem;
+  padding: 0.5rem 0;
+}
+#productName {
+  font-size: 0.9rem !important;
+}
+.logoImage {
+  height: 30px;
+  width: 30px;
+}
